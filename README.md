@@ -96,8 +96,3 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
   
 </a>
 
-
-## My GitHub Contributions Summary
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=borameiy&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![Bora Meiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=borameiy&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
